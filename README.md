@@ -1,2 +1,6 @@
 # ms-github-curso
-Curso de gitlbs
+Curso de github fondations
+
+## TODO: Stack
+
+## TODO: Pontos chaves
